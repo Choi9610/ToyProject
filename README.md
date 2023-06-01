@@ -1,1 +1,7 @@
-# ToyProject
+# ToyProject 
+웹 프로젝트 저장소
+
+# 구현 기능
+
+- 게시판
+- 회원 목록
